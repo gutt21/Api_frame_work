@@ -10,3 +10,480 @@
 2022-12-21 15:56:18,847 [main] INFO EmployeesRestAPi - ******* started TC001_Get_All_Employess ********
 2022-12-21 15:56:23,321 [main] INFO EmployeesRestAPi - ******* check server type ********
 2022-12-21 15:56:23,321 [main] INFO EmployeesRestAPi - server type is ==> nginx/1.21.6
+2022-12-21 16:33:33,642 [main] INFO EmployeesRestAPi - ******* started TC001_Get_All_Employess ********
+2022-12-21 16:33:38,381 [main] INFO EmployeesRestAPi - ******* check Content Length ********
+2022-12-21 16:33:38,382 [main] INFO EmployeesRestAPi - Content length is ==>null
+2022-12-21 16:35:54,569 [main] INFO EmployeesRestAPi - ******* started TC001_Get_All_Employess ********
+2022-12-21 16:35:59,308 [main] INFO EmployeesRestAPi - ******* check Content Length ********
+2022-12-21 16:35:59,309 [main] INFO EmployeesRestAPi - Content length is ==> null
+2022-12-21 16:39:31,015 [main] INFO EmployeesRestAPi - ******* started TC001_Get_All_Employess ********
+2022-12-21 16:40:26,666 [main] INFO EmployeesRestAPi - ******* started TC001_Get_All_Employess ********
+2022-12-21 16:44:52,070 [main] INFO EmployeesRestAPi - ******* started TC001_Get_All_Employess ********
+2022-12-21 16:44:56,778 [main] INFO EmployeesRestAPi - ****** check Content Encoding ******
+2022-12-21 16:44:56,778 [main] INFO EmployeesRestAPi - Content Encoding is ==> gzip
+2022-12-21 16:44:56,793 [main] INFO EmployeesRestAPi - ******* Check the response of body ********
+2022-12-21 16:44:56,813 [main] INFO EmployeesRestAPi - Response body==>{"status":"success","data":[{"id":1,"employee_name":"Tiger Nixon","employee_salary":320800,"employee_age":61,"profile_image":""},{"id":2,"employee_name":"Garrett Winters","employee_salary":170750,"employee_age":63,"profile_image":""},{"id":3,"employee_name":"Ashton Cox","employee_salary":86000,"employee_age":66,"profile_image":""},{"id":4,"employee_name":"Cedric Kelly","employee_salary":433060,"employee_age":22,"profile_image":""},{"id":5,"employee_name":"Airi Satou","employee_salary":162700,"employee_age":33,"profile_image":""},{"id":6,"employee_name":"Brielle Williamson","employee_salary":372000,"employee_age":61,"profile_image":""},{"id":7,"employee_name":"Herrod Chandler","employee_salary":137500,"employee_age":59,"profile_image":""},{"id":8,"employee_name":"Rhona Davidson","employee_salary":327900,"employee_age":55,"profile_image":""},{"id":9,"employee_name":"Colleen Hurst","employee_salary":205500,"employee_age":39,"profile_image":""},{"id":10,"employee_name":"Sonya Frost","employee_salary":103600,"employee_age":23,"profile_image":""},{"id":11,"employee_name":"Jena Gaines","employee_salary":90560,"employee_age":30,"profile_image":""},{"id":12,"employee_name":"Quinn Flynn","employee_salary":342000,"employee_age":22,"profile_image":""},{"id":13,"employee_name":"Charde Marshall","employee_salary":470600,"employee_age":36,"profile_image":""},{"id":14,"employee_name":"Haley Kennedy","employee_salary":313500,"employee_age":43,"profile_image":""},{"id":15,"employee_name":"Tatyana Fitzpatrick","employee_salary":385750,"employee_age":19,"profile_image":""},{"id":16,"employee_name":"Michael Silva","employee_salary":198500,"employee_age":66,"profile_image":""},{"id":17,"employee_name":"Paul Byrd","employee_salary":725000,"employee_age":64,"profile_image":""},{"id":18,"employee_name":"Gloria Little","employee_salary":237500,"employee_age":59,"profile_image":""},{"id":19,"employee_name":"Bradley Greer","employee_salary":132000,"employee_age":41,"profile_image":""},{"id":20,"employee_name":"Dai Rios","employee_salary":217500,"employee_age":35,"profile_image":""},{"id":21,"employee_name":"Jenette Caldwell","employee_salary":345000,"employee_age":30,"profile_image":""},{"id":22,"employee_name":"Yuri Berry","employee_salary":675000,"employee_age":40,"profile_image":""},{"id":23,"employee_name":"Caesar Vance","employee_salary":106450,"employee_age":21,"profile_image":""},{"id":24,"employee_name":"Doris Wilder","employee_salary":85600,"employee_age":23,"profile_image":""}],"message":"Successfully! All records has been fetched."}
+2022-12-21 16:44:56,816 [main] INFO EmployeesRestAPi - ******* check response time *******
+2022-12-21 16:44:56,820 [main] INFO EmployeesRestAPi - response time is ==>887
+2022-12-21 16:44:56,825 [main] INFO EmployeesRestAPi - ******* check Content Length ********
+2022-12-21 16:44:56,826 [main] INFO EmployeesRestAPi - Content length is ==> null
+2022-12-21 16:44:56,830 [main] INFO EmployeesRestAPi - ******* check status line ******
+2022-12-21 16:44:56,830 [main] INFO EmployeesRestAPi - Response ststuc line==>HTTP/1.1 200 OK
+2022-12-21 16:44:56,832 [main] INFO EmployeesRestAPi - ******** check content type *********
+2022-12-21 16:44:56,833 [main] INFO EmployeesRestAPi - content type is ==>application/json
+2022-12-21 16:44:56,836 [main] INFO EmployeesRestAPi - ******* check server type ********
+2022-12-21 16:44:56,836 [main] INFO EmployeesRestAPi - server type is ==> nginx/1.21.6
+2022-12-21 16:44:56,839 [main] INFO EmployeesRestAPi - ******** check status code **********
+2022-12-21 16:44:56,841 [main] INFO EmployeesRestAPi - Status code==>200
+2022-12-21 16:44:56,845 [main] INFO EmployeesRestAPi - ******* finished TC001_Get_All_Employess *******
+2022-12-21 16:46:18,141 [main] INFO EmployeesRestAPi - ******* started TC001_Get_All_Employess ********
+2022-12-21 16:46:49,418 [main] INFO EmployeesRestAPi - ******* started TC001_Get_All_Employess ********
+2022-12-21 16:47:39,141 [main] INFO EmployeesRestAPi - ******* started TC001_Get_All_Employess ********
+2022-12-21 16:47:43,713 [main] INFO EmployeesRestAPi - ******* check response time *******
+2022-12-21 16:47:43,715 [main] INFO EmployeesRestAPi - response time is ==>700
+2022-12-21 16:47:43,733 [main] INFO EmployeesRestAPi - ******* finished TC001_Get_All_Employess *******
+2022-12-21 16:48:13,724 [main] INFO EmployeesRestAPi - ******* started TC001_Get_All_Employess ********
+2022-12-21 16:48:18,251 [main] INFO EmployeesRestAPi - ******* check response time *******
+2022-12-21 16:48:18,253 [main] INFO EmployeesRestAPi - response time is ==>667
+2022-12-21 16:48:18,260 [main] INFO EmployeesRestAPi - ******* finished TC001_Get_All_Employess *******
+2022-12-21 16:49:15,742 [main] INFO EmployeesRestAPi - ******* started TC001_Get_All_Employess ********
+2022-12-21 16:50:50,325 [main] INFO EmployeesRestAPi - ******* started TC001_Get_All_Employess ********
+2022-12-21 16:50:55,947 [main] INFO EmployeesRestAPi - ******* finished TC001_Get_All_Employess *******
+2022-12-21 16:51:12,330 [main] INFO EmployeesRestAPi - ******* started TC001_Get_All_Employess ********
+2022-12-21 16:51:17,897 [main] INFO EmployeesRestAPi - ******* Check the response of body ********
+2022-12-21 16:51:17,922 [main] INFO EmployeesRestAPi - Response body==>{"message":"Error Occured! Page Not found, contact rstapi2example@gmail.com"}
+2022-12-21 16:51:17,930 [main] INFO EmployeesRestAPi - ******* finished TC001_Get_All_Employess *******
+2022-12-21 16:51:35,918 [main] INFO EmployeesRestAPi - ******* started TC001_Get_All_Employess ********
+2022-12-21 16:51:41,428 [main] INFO EmployeesRestAPi - ******** check status code **********
+2022-12-21 16:51:41,429 [main] INFO EmployeesRestAPi - Status code==>404
+2022-12-21 16:51:41,448 [main] INFO EmployeesRestAPi - ******* finished TC001_Get_All_Employess *******
+2022-12-21 16:51:54,912 [main] INFO EmployeesRestAPi - ******* started TC001_Get_All_Employess ********
+2022-12-21 16:52:13,103 [main] INFO EmployeesRestAPi - ******* started TC001_Get_All_Employess ********
+2022-12-21 16:56:10,631 [main] INFO EmployeesRestAPi - ******* started TC001_Get_All_Employess ********
+2022-12-21 16:56:15,385 [main] INFO EmployeesRestAPi - ****** check Content Encoding ******
+2022-12-21 16:56:15,386 [main] INFO EmployeesRestAPi - Content Encoding is ==> null
+2022-12-21 16:56:15,401 [main] INFO EmployeesRestAPi - ******* Check the response of body ********
+2022-12-21 16:56:15,414 [main] INFO EmployeesRestAPi - Response body==>{"status":"success","data":{"id":22,"employee_name":"Yuri Berry","employee_salary":675000,"employee_age":40,"profile_image":""},"message":"Successfully! Record has been fetched."}
+2022-12-21 16:56:15,417 [main] INFO EmployeesRestAPi - ******* check response time *******
+2022-12-21 16:56:15,418 [main] INFO EmployeesRestAPi - response time is ==>890
+2022-12-21 16:56:15,418 [main] INFO EmployeesRestAPi - Resonse time is greater than 20000
+2022-12-21 16:56:15,421 [main] INFO EmployeesRestAPi - ******* check Content Length ********
+2022-12-21 16:56:15,421 [main] INFO EmployeesRestAPi - Content length is ==> 179
+2022-12-21 16:56:15,424 [main] INFO EmployeesRestAPi - ******* check status line ******
+2022-12-21 16:56:15,424 [main] INFO EmployeesRestAPi - Response ststuc line==>HTTP/1.1 200 OK
+2022-12-21 16:56:15,426 [main] INFO EmployeesRestAPi - ******** check content type *********
+2022-12-21 16:56:15,427 [main] INFO EmployeesRestAPi - content type is ==>application/json
+2022-12-21 16:56:15,430 [main] INFO EmployeesRestAPi - ******* check server type ********
+2022-12-21 16:56:15,431 [main] INFO EmployeesRestAPi - server type is ==> nginx/1.21.6
+2022-12-21 16:56:15,434 [main] INFO EmployeesRestAPi - ******** check status code **********
+2022-12-21 16:56:15,435 [main] INFO EmployeesRestAPi - Status code==>200
+2022-12-21 16:56:15,437 [main] INFO EmployeesRestAPi - ******* finished TC001_Get_All_Employess *******
+2022-12-21 16:57:40,258 [main] INFO EmployeesRestAPi - ******* started TC001_Get_All_Employess ********
+2022-12-21 16:58:10,417 [main] INFO EmployeesRestAPi - ******* started TC001_Get_All_Employess ********
+2022-12-21 16:58:14,977 [main] INFO EmployeesRestAPi - ****** check Content Encoding ******
+2022-12-21 16:58:14,978 [main] INFO EmployeesRestAPi - Content Encoding is ==> null
+2022-12-21 16:58:14,992 [main] INFO EmployeesRestAPi - ******* Check the response of body ********
+2022-12-21 16:58:15,013 [main] INFO EmployeesRestAPi - Response body==>{"status":"success","data":{"id":22,"employee_name":"Yuri Berry","employee_salary":675000,"employee_age":40,"profile_image":""},"message":"Successfully! Record has been fetched."}
+2022-12-21 16:58:15,016 [main] INFO EmployeesRestAPi - ******* check response time *******
+2022-12-21 16:58:15,018 [main] INFO EmployeesRestAPi - response time is ==>653
+2022-12-21 16:58:15,018 [main] INFO EmployeesRestAPi - Resonse time is greater than 20000
+2022-12-21 16:58:15,020 [main] INFO EmployeesRestAPi - ******* check Content Length ********
+2022-12-21 16:58:15,020 [main] INFO EmployeesRestAPi - Content length is ==> 179
+2022-12-21 16:58:15,023 [main] INFO EmployeesRestAPi - ******* check status line ******
+2022-12-21 16:58:15,023 [main] INFO EmployeesRestAPi - Response ststuc line==>HTTP/1.1 200 OK
+2022-12-21 16:58:15,025 [main] INFO EmployeesRestAPi - ******** check content type *********
+2022-12-21 16:58:15,026 [main] INFO EmployeesRestAPi - content type is ==>application/json
+2022-12-21 16:58:15,029 [main] INFO EmployeesRestAPi - ******* check server type ********
+2022-12-21 16:58:15,029 [main] INFO EmployeesRestAPi - server type is ==> nginx/1.21.6
+2022-12-21 16:58:15,034 [main] INFO EmployeesRestAPi - ******** check status code **********
+2022-12-21 16:58:15,034 [main] INFO EmployeesRestAPi - Status code==>200
+2022-12-21 16:58:15,037 [main] INFO EmployeesRestAPi - ******* finished TC001_Get_All_Employess *******
+2022-12-22 13:39:48,517 [main] INFO EmployeesRestAPi - ******* TC003_Post_Employes_record ********
+2022-12-22 13:39:54,729 [main] INFO EmployeesRestAPi - *********check response body *********
+2022-12-22 13:41:57,614 [main] INFO EmployeesRestAPi - ******* TC003_Post_Employes_record ********
+2022-12-22 13:42:03,743 [main] INFO EmployeesRestAPi - *********check response body *********
+2022-12-22 13:42:03,759 [main] INFO EmployeesRestAPi - body name ==> akashTxjPB
+2022-12-22 13:42:03,762 [main] INFO EmployeesRestAPi - body salary ==> sv4Ln8GH
+2022-12-22 13:42:03,763 [main] INFO EmployeesRestAPi - body age ==> xC
+2022-12-22 13:44:27,816 [main] INFO EmployeesRestAPi - ******* TC003_Post_Employes_record ********
+2022-12-22 13:44:33,973 [main] INFO EmployeesRestAPi - *********check response body *********
+2022-12-22 13:44:33,998 [main] INFO EmployeesRestAPi - body name ==> akashdvjKu
+2022-12-22 13:44:34,002 [main] INFO EmployeesRestAPi - body salary ==> 21105533
+2022-12-22 13:44:34,002 [main] INFO EmployeesRestAPi - body age ==> 78
+2022-12-22 15:27:24,052 [main] INFO EmployeesRestAPi - ******* TC003_Post_Employes_record ********
+2022-12-22 15:30:05,836 [main] INFO EmployeesRestAPi - ******* TC003_Post_Employes_record ********
+2022-12-22 15:30:16,921 [main] INFO EmployeesRestAPi - ******** check content type **********
+2022-12-22 15:30:16,922 [main] INFO EmployeesRestAPi - content type ==> application/json
+2022-12-22 15:33:12,480 [main] INFO EmployeesRestAPi - ******* TC003_Post_Employes_record ********
+2022-12-22 15:33:18,662 [main] INFO EmployeesRestAPi - Cache-Control ==> no-cache, private, max-age=21600
+2022-12-22 15:33:18,663 [main] INFO EmployeesRestAPi - Content-Type ==> application/json
+2022-12-22 15:33:18,664 [main] INFO EmployeesRestAPi - Date ==> Thu, 22 Dec 2022 10:03:14 GMT
+2022-12-22 15:33:18,664 [main] INFO EmployeesRestAPi - Display ==> staticcontent_sol, orig_site_sol
+2022-12-22 15:33:18,665 [main] INFO EmployeesRestAPi - Expires ==> Thu, 22 Dec 2022 16:03:14 GMT
+2022-12-22 15:33:18,666 [main] INFO EmployeesRestAPi - Host-Header ==> c2hhcmVkLmJsdWVob3N0LmNvbQ==
+2022-12-22 15:33:18,666 [main] INFO EmployeesRestAPi - Response ==> 200
+2022-12-22 15:33:18,667 [main] INFO EmployeesRestAPi - Server ==> Apache
+2022-12-22 15:33:18,667 [main] INFO EmployeesRestAPi - Vary ==> Accept-Encoding,Origin
+2022-12-22 15:33:18,667 [main] INFO EmployeesRestAPi - X-Endurance-Cache-Level ==> 2
+2022-12-22 15:33:18,668 [main] INFO EmployeesRestAPi - X-Ezoic-Cdn ==> Miss
+2022-12-22 15:33:18,668 [main] INFO EmployeesRestAPi - X-Middleton-Display ==> staticcontent_sol, orig_site_sol
+2022-12-22 15:33:18,668 [main] INFO EmployeesRestAPi - X-Middleton-Response ==> 200
+2022-12-22 15:33:18,669 [main] INFO EmployeesRestAPi - X-Nginx-Cache ==> WordPress
+2022-12-22 15:33:18,669 [main] INFO EmployeesRestAPi - X-Origin-Cache-Control ==> no-cache, private
+2022-12-22 15:33:18,670 [main] INFO EmployeesRestAPi - X-Ratelimit-Limit ==> 60
+2022-12-22 15:33:18,671 [main] INFO EmployeesRestAPi - X-Ratelimit-Remaining ==> 58
+2022-12-22 15:33:18,671 [main] INFO EmployeesRestAPi - X-Sol ==> orig
+2022-12-22 15:33:18,671 [main] INFO EmployeesRestAPi - Content-Length ==> 166
+2022-12-22 15:41:25,061 [main] INFO EmployeesRestAPi - ******* TC003_Post_Employes_record ********
+2022-12-22 15:41:31,566 [main] INFO EmployeesRestAPi - Cache-Control ==> no-cache, private, max-age=21600
+2022-12-22 15:41:31,568 [main] INFO EmployeesRestAPi - Content-Type ==> application/json
+2022-12-22 15:41:31,569 [main] INFO EmployeesRestAPi - Date ==> Thu, 22 Dec 2022 10:11:27 GMT
+2022-12-22 15:41:31,570 [main] INFO EmployeesRestAPi - Display ==> staticcontent_sol, orig_site_sol
+2022-12-22 15:41:31,571 [main] INFO EmployeesRestAPi - Expires ==> Thu, 22 Dec 2022 16:11:27 GMT
+2022-12-22 15:41:31,571 [main] INFO EmployeesRestAPi - Host-Header ==> c2hhcmVkLmJsdWVob3N0LmNvbQ==
+2022-12-22 15:41:31,572 [main] INFO EmployeesRestAPi - Response ==> 200
+2022-12-22 15:41:31,572 [main] INFO EmployeesRestAPi - Server ==> Apache
+2022-12-22 15:41:31,573 [main] INFO EmployeesRestAPi - Vary ==> Accept-Encoding,Origin
+2022-12-22 15:41:31,573 [main] INFO EmployeesRestAPi - X-Endurance-Cache-Level ==> 2
+2022-12-22 15:41:31,574 [main] INFO EmployeesRestAPi - X-Ezoic-Cdn ==> Miss
+2022-12-22 15:41:31,574 [main] INFO EmployeesRestAPi - X-Middleton-Display ==> staticcontent_sol, orig_site_sol
+2022-12-22 15:41:31,575 [main] INFO EmployeesRestAPi - X-Middleton-Response ==> 200
+2022-12-22 15:41:31,575 [main] INFO EmployeesRestAPi - X-Nginx-Cache ==> WordPress
+2022-12-22 15:41:31,576 [main] INFO EmployeesRestAPi - X-Origin-Cache-Control ==> no-cache, private
+2022-12-22 15:41:31,578 [main] INFO EmployeesRestAPi - X-Ratelimit-Limit ==> 60
+2022-12-22 15:41:31,579 [main] INFO EmployeesRestAPi - X-Ratelimit-Remaining ==> 58
+2022-12-22 15:41:31,580 [main] INFO EmployeesRestAPi - X-Sol ==> orig
+2022-12-22 15:41:31,580 [main] INFO EmployeesRestAPi - Content-Length ==> 166
+2022-12-22 15:41:31,588 [main] INFO EmployeesRestAPi - ******** check content type **********
+2022-12-22 15:41:31,589 [main] INFO EmployeesRestAPi - content type ==> application/json
+2022-12-22 15:41:31,600 [main] INFO EmployeesRestAPi - *********check response body *********
+2022-12-22 15:41:31,610 [main] INFO EmployeesRestAPi - body name ==> akashsOlFE
+2022-12-22 15:41:31,610 [main] INFO EmployeesRestAPi - body salary ==> 26305081
+2022-12-22 15:41:31,611 [main] INFO EmployeesRestAPi - body age ==> 50
+2022-12-22 15:41:31,613 [main] INFO EmployeesRestAPi - ********check Status code **********
+2022-12-22 15:41:31,614 [main] INFO EmployeesRestAPi - Status code ==> 200
+2022-12-22 15:41:31,616 [main] INFO EmployeesRestAPi - ******* check Status line *********
+2022-12-22 15:41:31,616 [main] INFO EmployeesRestAPi - Status line ==> HTTP/1.1 200 OK
+2022-12-22 15:41:31,619 [main] INFO EmployeesRestAPi - check content length *******
+2022-12-22 15:41:31,620 [main] INFO EmployeesRestAPi - content length ==> 166
+2022-12-22 15:41:31,620 [main] INFO EmployeesRestAPi - content length is less then 2000
+2022-12-22 15:41:31,624 [main] INFO EmployeesRestAPi - ******** check server type *******
+2022-12-22 15:41:31,625 [main] INFO EmployeesRestAPi - server type ==> Apache
+2022-12-22 15:41:31,628 [main] INFO EmployeesRestAPi - ******** TC003_Post_Employes_record close ********
+2022-12-25 11:42:34,296 [main] INFO EmployeesRestAPi - ******* TC003_Post_Employes_record ********
+2022-12-25 11:42:40,042 [main] INFO EmployeesRestAPi - Allow ==> GET, HEAD, PUT
+2022-12-25 11:42:40,042 [main] INFO EmployeesRestAPi - Cache-Control ==> private, max-age=0, must-revalidate, no-cache, no-store
+2022-12-25 11:42:40,043 [main] INFO EmployeesRestAPi - Content-Type ==> text/html; charset=UTF-8
+2022-12-25 11:42:40,043 [main] INFO EmployeesRestAPi - Date ==> Sun, 25 Dec 2022 06:12:28 GMT
+2022-12-25 11:42:40,043 [main] INFO EmployeesRestAPi - Display ==> staticcontent_sol, orig_site_sol
+2022-12-25 11:42:40,044 [main] INFO EmployeesRestAPi - Expires ==> Sat, 24 Dec 2022 06:12:29 GMT
+2022-12-25 11:42:40,044 [main] INFO EmployeesRestAPi - Host-Header ==> c2hhcmVkLmJsdWVob3N0LmNvbQ==
+2022-12-25 11:42:40,044 [main] INFO EmployeesRestAPi - Pagespeed ==> off
+2022-12-25 11:42:40,045 [main] INFO EmployeesRestAPi - Response ==> 405
+2022-12-25 11:42:40,045 [main] INFO EmployeesRestAPi - Server ==> Apache
+2022-12-25 11:42:40,045 [main] INFO EmployeesRestAPi - Vary ==> Accept-Encoding,Origin
+2022-12-25 11:42:40,045 [main] INFO EmployeesRestAPi - X-Endurance-Cache-Level ==> 2
+2022-12-25 11:42:40,046 [main] INFO EmployeesRestAPi - X-Ezoic-Cdn ==> Miss
+2022-12-25 11:42:40,046 [main] INFO EmployeesRestAPi - X-Middleton-Display ==> staticcontent_sol, orig_site_sol
+2022-12-25 11:42:40,046 [main] INFO EmployeesRestAPi - X-Middleton-Response ==> 405
+2022-12-25 11:42:40,048 [main] INFO EmployeesRestAPi - X-Nginx-Cache ==> WordPress
+2022-12-25 11:42:40,048 [main] INFO EmployeesRestAPi - X-Origin-Cache-Control ==> no-cache, private
+2022-12-25 11:42:40,048 [main] INFO EmployeesRestAPi - X-Sol ==> orig
+2022-12-25 11:42:40,049 [main] INFO EmployeesRestAPi - Content-Length ==> 825
+2022-12-25 11:42:40,053 [main] INFO EmployeesRestAPi - ******** check content type **********
+2022-12-25 11:42:40,054 [main] INFO EmployeesRestAPi - content type ==> text/html; charset=UTF-8
+2022-12-25 11:42:40,065 [main] INFO EmployeesRestAPi - *********check response body *********
+2022-12-25 11:42:40,084 [main] INFO EmployeesRestAPi - body name ==> akashXiBjF
+2022-12-25 11:42:40,088 [main] INFO EmployeesRestAPi - ********check Status code **********
+2022-12-25 11:42:40,088 [main] INFO EmployeesRestAPi - Status code ==> 405
+2022-12-25 11:42:40,092 [main] INFO EmployeesRestAPi - ******* check Status line *********
+2022-12-25 11:42:40,093 [main] INFO EmployeesRestAPi - Status line ==> HTTP/1.1 405 Method Not Allowed
+2022-12-25 11:42:40,095 [main] INFO EmployeesRestAPi - check content length *******
+2022-12-25 11:42:40,095 [main] INFO EmployeesRestAPi - content length ==> 825
+2022-12-25 11:42:40,095 [main] INFO EmployeesRestAPi - content length is less then 2000
+2022-12-25 11:42:40,098 [main] INFO EmployeesRestAPi - ******** check server type *******
+2022-12-25 11:42:40,098 [main] INFO EmployeesRestAPi - server type ==> Apache
+2022-12-25 11:42:40,101 [main] INFO EmployeesRestAPi - ******** TC003_Post_Employes_record close ********
+2022-12-25 11:43:16,796 [main] INFO EmployeesRestAPi - ******* TC004_Post_Employes_record_updated ********
+2022-12-25 11:43:22,641 [main] INFO EmployeesRestAPi - Allow ==> GET, HEAD, PUT
+2022-12-25 11:43:22,642 [main] INFO EmployeesRestAPi - Cache-Control ==> private, max-age=0, must-revalidate, no-cache, no-store
+2022-12-25 11:43:22,643 [main] INFO EmployeesRestAPi - Content-Type ==> text/html; charset=UTF-8
+2022-12-25 11:43:22,643 [main] INFO EmployeesRestAPi - Date ==> Sun, 25 Dec 2022 06:13:11 GMT
+2022-12-25 11:43:22,643 [main] INFO EmployeesRestAPi - Display ==> staticcontent_sol, orig_site_sol
+2022-12-25 11:43:22,643 [main] INFO EmployeesRestAPi - Expires ==> Sat, 24 Dec 2022 06:13:11 GMT
+2022-12-25 11:43:22,644 [main] INFO EmployeesRestAPi - Host-Header ==> c2hhcmVkLmJsdWVob3N0LmNvbQ==
+2022-12-25 11:43:22,644 [main] INFO EmployeesRestAPi - Pagespeed ==> off
+2022-12-25 11:43:22,644 [main] INFO EmployeesRestAPi - Response ==> 405
+2022-12-25 11:43:22,645 [main] INFO EmployeesRestAPi - Server ==> Apache
+2022-12-25 11:43:22,645 [main] INFO EmployeesRestAPi - Vary ==> Accept-Encoding,Origin
+2022-12-25 11:43:22,646 [main] INFO EmployeesRestAPi - X-Endurance-Cache-Level ==> 2
+2022-12-25 11:43:22,646 [main] INFO EmployeesRestAPi - X-Ezoic-Cdn ==> Miss
+2022-12-25 11:43:22,646 [main] INFO EmployeesRestAPi - X-Middleton-Display ==> staticcontent_sol, orig_site_sol
+2022-12-25 11:43:22,646 [main] INFO EmployeesRestAPi - X-Middleton-Response ==> 405
+2022-12-25 11:43:22,648 [main] INFO EmployeesRestAPi - X-Nginx-Cache ==> WordPress
+2022-12-25 11:43:22,649 [main] INFO EmployeesRestAPi - X-Origin-Cache-Control ==> no-cache, private
+2022-12-25 11:43:22,649 [main] INFO EmployeesRestAPi - X-Sol ==> orig
+2022-12-25 11:43:22,649 [main] INFO EmployeesRestAPi - Content-Length ==> 825
+2022-12-25 11:43:22,655 [main] INFO EmployeesRestAPi - ******** check content type **********
+2022-12-25 11:43:22,655 [main] INFO EmployeesRestAPi - content type ==> text/html; charset=UTF-8
+2022-12-25 11:43:22,666 [main] INFO EmployeesRestAPi - *********check response body *********
+2022-12-25 11:43:22,679 [main] INFO EmployeesRestAPi - body name ==> akashtMYVv
+2022-12-25 11:43:22,682 [main] INFO EmployeesRestAPi - ********check Status code **********
+2022-12-25 11:43:22,682 [main] INFO EmployeesRestAPi - Status code ==> 405
+2022-12-25 11:43:22,685 [main] INFO EmployeesRestAPi - ******* check Status line *********
+2022-12-25 11:43:22,685 [main] INFO EmployeesRestAPi - Status line ==> HTTP/1.1 405 Method Not Allowed
+2022-12-25 11:43:22,688 [main] INFO EmployeesRestAPi - check content length *******
+2022-12-25 11:43:22,689 [main] INFO EmployeesRestAPi - content length ==> 825
+2022-12-25 11:43:22,689 [main] INFO EmployeesRestAPi - content length is less then 2000
+2022-12-25 11:43:22,692 [main] INFO EmployeesRestAPi - ******** check server type *******
+2022-12-25 11:43:22,693 [main] INFO EmployeesRestAPi - server type ==> Apache
+2022-12-25 11:43:22,696 [main] INFO EmployeesRestAPi - ******** TC004_Post_Employes_record_updated close ********
+2022-12-25 11:45:18,843 [main] INFO EmployeesRestAPi - ******* TC004_Post_Employes_record_updated ********
+2022-12-25 11:45:24,613 [main] INFO EmployeesRestAPi - ********check Status code **********
+2022-12-25 11:45:24,614 [main] INFO EmployeesRestAPi - Status code ==> 405
+2022-12-25 11:46:10,149 [main] INFO EmployeesRestAPi - ******* TC004_Post_Employes_record_updated ********
+2022-12-25 11:46:16,066 [main] INFO EmployeesRestAPi - ********check Status code **********
+2022-12-25 11:46:16,067 [main] INFO EmployeesRestAPi - Status code ==> 200
+2022-12-25 11:46:30,002 [main] INFO EmployeesRestAPi - ******* TC004_Post_Employes_record_updated ********
+2022-12-25 11:46:35,905 [main] INFO EmployeesRestAPi - Cache-Control ==> no-cache, private, max-age=21600
+2022-12-25 11:46:35,905 [main] INFO EmployeesRestAPi - Content-Type ==> application/json
+2022-12-25 11:46:35,906 [main] INFO EmployeesRestAPi - Date ==> Sun, 25 Dec 2022 06:16:24 GMT
+2022-12-25 11:46:35,906 [main] INFO EmployeesRestAPi - Display ==> staticcontent_sol, orig_site_sol
+2022-12-25 11:46:35,907 [main] INFO EmployeesRestAPi - Expires ==> Sun, 25 Dec 2022 12:16:24 GMT
+2022-12-25 11:46:35,907 [main] INFO EmployeesRestAPi - Host-Header ==> c2hhcmVkLmJsdWVob3N0LmNvbQ==
+2022-12-25 11:46:35,907 [main] INFO EmployeesRestAPi - Response ==> 200
+2022-12-25 11:46:35,908 [main] INFO EmployeesRestAPi - Server ==> Apache
+2022-12-25 11:46:35,908 [main] INFO EmployeesRestAPi - Vary ==> Accept-Encoding,Origin
+2022-12-25 11:46:35,908 [main] INFO EmployeesRestAPi - X-Endurance-Cache-Level ==> 2
+2022-12-25 11:46:35,908 [main] INFO EmployeesRestAPi - X-Ezoic-Cdn ==> Miss
+2022-12-25 11:46:35,909 [main] INFO EmployeesRestAPi - X-Middleton-Display ==> staticcontent_sol, orig_site_sol
+2022-12-25 11:46:35,909 [main] INFO EmployeesRestAPi - X-Middleton-Response ==> 200
+2022-12-25 11:46:35,909 [main] INFO EmployeesRestAPi - X-Nginx-Cache ==> WordPress
+2022-12-25 11:46:35,909 [main] INFO EmployeesRestAPi - X-Origin-Cache-Control ==> no-cache, private
+2022-12-25 11:46:35,910 [main] INFO EmployeesRestAPi - X-Ratelimit-Limit ==> 60
+2022-12-25 11:46:35,910 [main] INFO EmployeesRestAPi - X-Ratelimit-Remaining ==> 58
+2022-12-25 11:46:35,910 [main] INFO EmployeesRestAPi - X-Sol ==> orig
+2022-12-25 11:46:35,911 [main] INFO EmployeesRestAPi - Content-Length ==> 158
+2022-12-25 11:46:35,915 [main] INFO EmployeesRestAPi - ******** check content type **********
+2022-12-25 11:46:35,915 [main] INFO EmployeesRestAPi - content type ==> application/json
+2022-12-25 11:46:35,920 [main] INFO EmployeesRestAPi - *********check response body *********
+2022-12-25 11:46:35,932 [main] INFO EmployeesRestAPi - body name ==> akashGSNBx
+2022-12-25 11:46:35,932 [main] INFO EmployeesRestAPi - body salary ==> 39821917
+2022-12-25 11:46:35,932 [main] INFO EmployeesRestAPi - body age ==> 50
+2022-12-25 11:46:35,935 [main] INFO EmployeesRestAPi - ********check Status code **********
+2022-12-25 11:46:35,935 [main] INFO EmployeesRestAPi - Status code ==> 200
+2022-12-25 11:46:35,938 [main] INFO EmployeesRestAPi - ******* check Status line *********
+2022-12-25 11:46:35,939 [main] INFO EmployeesRestAPi - Status line ==> HTTP/1.1 200 OK
+2022-12-25 11:46:35,949 [main] INFO EmployeesRestAPi - check content length *******
+2022-12-25 11:46:35,949 [main] INFO EmployeesRestAPi - content length ==> 158
+2022-12-25 11:46:35,949 [main] INFO EmployeesRestAPi - content length is less then 2000
+2022-12-25 11:46:35,951 [main] INFO EmployeesRestAPi - ******** check server type *******
+2022-12-25 11:46:35,952 [main] INFO EmployeesRestAPi - server type ==> Apache
+2022-12-25 11:46:35,954 [main] INFO EmployeesRestAPi - ******** TC004_Post_Employes_record_updated close ********
+2022-12-25 11:48:47,113 [main] INFO EmployeesRestAPi - ******* TC004_Post_Employes_record_updated ********
+2022-12-25 11:48:52,970 [main] INFO EmployeesRestAPi - Cache-Control ==> no-cache, private, max-age=21600
+2022-12-25 11:48:52,970 [main] INFO EmployeesRestAPi - Content-Type ==> application/json
+2022-12-25 11:48:52,970 [main] INFO EmployeesRestAPi - Date ==> Sun, 25 Dec 2022 06:18:41 GMT
+2022-12-25 11:48:52,970 [main] INFO EmployeesRestAPi - Display ==> staticcontent_sol, orig_site_sol
+2022-12-25 11:48:52,971 [main] INFO EmployeesRestAPi - Expires ==> Sun, 25 Dec 2022 12:18:41 GMT
+2022-12-25 11:48:52,971 [main] INFO EmployeesRestAPi - Host-Header ==> c2hhcmVkLmJsdWVob3N0LmNvbQ==
+2022-12-25 11:48:52,971 [main] INFO EmployeesRestAPi - Response ==> 200
+2022-12-25 11:48:52,971 [main] INFO EmployeesRestAPi - Server ==> Apache
+2022-12-25 11:48:52,972 [main] INFO EmployeesRestAPi - Vary ==> Accept-Encoding,Origin
+2022-12-25 11:48:52,972 [main] INFO EmployeesRestAPi - X-Endurance-Cache-Level ==> 2
+2022-12-25 11:48:52,972 [main] INFO EmployeesRestAPi - X-Ezoic-Cdn ==> Miss
+2022-12-25 11:48:52,973 [main] INFO EmployeesRestAPi - X-Middleton-Display ==> staticcontent_sol, orig_site_sol
+2022-12-25 11:48:52,973 [main] INFO EmployeesRestAPi - X-Middleton-Response ==> 200
+2022-12-25 11:48:52,973 [main] INFO EmployeesRestAPi - X-Nginx-Cache ==> WordPress
+2022-12-25 11:48:52,973 [main] INFO EmployeesRestAPi - X-Origin-Cache-Control ==> no-cache, private
+2022-12-25 11:48:52,974 [main] INFO EmployeesRestAPi - X-Ratelimit-Limit ==> 60
+2022-12-25 11:48:52,974 [main] INFO EmployeesRestAPi - X-Ratelimit-Remaining ==> 58
+2022-12-25 11:48:52,974 [main] INFO EmployeesRestAPi - X-Sol ==> orig
+2022-12-25 11:48:52,975 [main] INFO EmployeesRestAPi - Content-Length ==> 81
+2022-12-25 11:48:52,979 [main] INFO EmployeesRestAPi - ******** check content type **********
+2022-12-25 11:48:52,979 [main] INFO EmployeesRestAPi - content type ==> application/json
+2022-12-25 11:48:52,985 [main] INFO EmployeesRestAPi - *********check response body *********
+2022-12-25 11:48:52,994 [main] INFO EmployeesRestAPi - body name ==> akashhNBRA
+2022-12-25 11:48:53,003 [main] INFO EmployeesRestAPi - ********check Status code **********
+2022-12-25 11:48:53,004 [main] INFO EmployeesRestAPi - Status code ==> 200
+2022-12-25 11:48:53,006 [main] INFO EmployeesRestAPi - ******* check Status line *********
+2022-12-25 11:48:53,007 [main] INFO EmployeesRestAPi - Status line ==> HTTP/1.1 200 OK
+2022-12-25 11:48:53,009 [main] INFO EmployeesRestAPi - check content length *******
+2022-12-25 11:48:53,009 [main] INFO EmployeesRestAPi - content length ==> 81
+2022-12-25 11:48:53,009 [main] INFO EmployeesRestAPi - content length is less then 2000
+2022-12-25 11:48:53,012 [main] INFO EmployeesRestAPi - ******** check server type *******
+2022-12-25 11:48:53,012 [main] INFO EmployeesRestAPi - server type ==> Apache
+2022-12-25 11:48:53,015 [main] INFO EmployeesRestAPi - ******** TC004_Post_Employes_record_updated close ********
+2022-12-25 11:59:03,740 [main] INFO EmployeesRestAPi - ******* TC004_Post_Employes_record_updated ********
+2022-12-25 11:59:10,388 [main] INFO EmployeesRestAPi - Allow ==> GET, HEAD, DELETE
+2022-12-25 11:59:10,388 [main] INFO EmployeesRestAPi - Cache-Control ==> private, max-age=0, must-revalidate, no-cache, no-store
+2022-12-25 11:59:10,389 [main] INFO EmployeesRestAPi - Content-Type ==> text/html; charset=UTF-8
+2022-12-25 11:59:10,389 [main] INFO EmployeesRestAPi - Date ==> Sun, 25 Dec 2022 06:28:59 GMT
+2022-12-25 11:59:10,389 [main] INFO EmployeesRestAPi - Display ==> staticcontent_sol, orig_site_sol
+2022-12-25 11:59:10,389 [main] INFO EmployeesRestAPi - Expires ==> Sat, 24 Dec 2022 06:28:59 GMT
+2022-12-25 11:59:10,390 [main] INFO EmployeesRestAPi - Host-Header ==> c2hhcmVkLmJsdWVob3N0LmNvbQ==
+2022-12-25 11:59:10,390 [main] INFO EmployeesRestAPi - Pagespeed ==> off
+2022-12-25 11:59:10,390 [main] INFO EmployeesRestAPi - Response ==> 405
+2022-12-25 11:59:10,390 [main] INFO EmployeesRestAPi - Server ==> Apache
+2022-12-25 11:59:10,390 [main] INFO EmployeesRestAPi - Vary ==> Accept-Encoding,Origin
+2022-12-25 11:59:10,390 [main] INFO EmployeesRestAPi - X-Endurance-Cache-Level ==> 2
+2022-12-25 11:59:10,390 [main] INFO EmployeesRestAPi - X-Ezoic-Cdn ==> Miss
+2022-12-25 11:59:10,390 [main] INFO EmployeesRestAPi - X-Middleton-Display ==> staticcontent_sol, orig_site_sol
+2022-12-25 11:59:10,391 [main] INFO EmployeesRestAPi - X-Middleton-Response ==> 405
+2022-12-25 11:59:10,391 [main] INFO EmployeesRestAPi - X-Nginx-Cache ==> WordPress
+2022-12-25 11:59:10,391 [main] INFO EmployeesRestAPi - X-Origin-Cache-Control ==> no-cache, private
+2022-12-25 11:59:10,391 [main] INFO EmployeesRestAPi - X-Sol ==> orig
+2022-12-25 11:59:10,392 [main] INFO EmployeesRestAPi - Content-Length ==> 825
+2022-12-25 11:59:10,395 [main] INFO EmployeesRestAPi - ******** check content type **********
+2022-12-25 11:59:10,395 [main] INFO EmployeesRestAPi - content type ==> text/html; charset=UTF-8
+2022-12-25 11:59:10,404 [main] INFO EmployeesRestAPi - *********check response body *********
+2022-12-25 11:59:10,406 [main] INFO EmployeesRestAPi - body name ==> akashXZYPa
+2022-12-25 11:59:10,409 [main] INFO EmployeesRestAPi - ********check Status code **********
+2022-12-25 11:59:10,409 [main] INFO EmployeesRestAPi - Status code ==> 405
+2022-12-25 11:59:10,412 [main] INFO EmployeesRestAPi - ******* check Status line *********
+2022-12-25 11:59:10,412 [main] INFO EmployeesRestAPi - Status line ==> HTTP/1.1 405 Method Not Allowed
+2022-12-25 11:59:10,415 [main] INFO EmployeesRestAPi - check content length *******
+2022-12-25 11:59:10,415 [main] INFO EmployeesRestAPi - content length ==> 825
+2022-12-25 11:59:10,415 [main] INFO EmployeesRestAPi - content length is less then 2000
+2022-12-25 11:59:10,417 [main] INFO EmployeesRestAPi - ******** check server type *******
+2022-12-25 11:59:10,418 [main] INFO EmployeesRestAPi - server type ==> Apache
+2022-12-25 11:59:10,419 [main] INFO EmployeesRestAPi - ******** TC004_Post_Employes_record_updated close ********
+2022-12-25 11:59:38,470 [main] INFO EmployeesRestAPi - ******* TC004_Post_Employes_record_updated ********
+2022-12-25 11:59:45,016 [main] INFO EmployeesRestAPi - Cache-Control ==> no-cache, private, max-age=21600
+2022-12-25 11:59:45,017 [main] INFO EmployeesRestAPi - Content-Type ==> application/json
+2022-12-25 11:59:45,017 [main] INFO EmployeesRestAPi - Date ==> Sun, 25 Dec 2022 06:29:34 GMT
+2022-12-25 11:59:45,017 [main] INFO EmployeesRestAPi - Display ==> staticcontent_sol, orig_site_sol
+2022-12-25 11:59:45,017 [main] INFO EmployeesRestAPi - Expires ==> Sun, 25 Dec 2022 12:29:34 GMT
+2022-12-25 11:59:45,017 [main] INFO EmployeesRestAPi - Host-Header ==> c2hhcmVkLmJsdWVob3N0LmNvbQ==
+2022-12-25 11:59:45,018 [main] INFO EmployeesRestAPi - Response ==> 200
+2022-12-25 11:59:45,018 [main] INFO EmployeesRestAPi - Server ==> Apache
+2022-12-25 11:59:45,018 [main] INFO EmployeesRestAPi - Vary ==> Accept-Encoding,Origin
+2022-12-25 11:59:45,018 [main] INFO EmployeesRestAPi - X-Endurance-Cache-Level ==> 2
+2022-12-25 11:59:45,018 [main] INFO EmployeesRestAPi - X-Ezoic-Cdn ==> Miss
+2022-12-25 11:59:45,018 [main] INFO EmployeesRestAPi - X-Middleton-Display ==> staticcontent_sol, orig_site_sol
+2022-12-25 11:59:45,019 [main] INFO EmployeesRestAPi - X-Middleton-Response ==> 200
+2022-12-25 11:59:45,019 [main] INFO EmployeesRestAPi - X-Nginx-Cache ==> WordPress
+2022-12-25 11:59:45,019 [main] INFO EmployeesRestAPi - X-Origin-Cache-Control ==> no-cache, private
+2022-12-25 11:59:45,020 [main] INFO EmployeesRestAPi - X-Ratelimit-Limit ==> 60
+2022-12-25 11:59:45,020 [main] INFO EmployeesRestAPi - X-Ratelimit-Remaining ==> 58
+2022-12-25 11:59:45,020 [main] INFO EmployeesRestAPi - X-Sol ==> orig
+2022-12-25 11:59:45,020 [main] INFO EmployeesRestAPi - Content-Length ==> 84
+2022-12-25 11:59:45,024 [main] INFO EmployeesRestAPi - ******** check content type **********
+2022-12-25 11:59:45,025 [main] INFO EmployeesRestAPi - content type ==> application/json
+2022-12-25 11:59:45,029 [main] INFO EmployeesRestAPi - *********check response body *********
+2022-12-25 11:59:45,029 [main] INFO EmployeesRestAPi - body name ==> akashTjprH
+2022-12-25 11:59:45,039 [main] INFO EmployeesRestAPi - ********check Status code **********
+2022-12-25 11:59:45,039 [main] INFO EmployeesRestAPi - Status code ==> 200
+2022-12-25 11:59:45,042 [main] INFO EmployeesRestAPi - ******* check Status line *********
+2022-12-25 11:59:45,042 [main] INFO EmployeesRestAPi - Status line ==> HTTP/1.1 200 OK
+2022-12-25 11:59:45,044 [main] INFO EmployeesRestAPi - check content length *******
+2022-12-25 11:59:45,044 [main] INFO EmployeesRestAPi - content length ==> 84
+2022-12-25 11:59:45,044 [main] INFO EmployeesRestAPi - content length is less then 2000
+2022-12-25 11:59:45,046 [main] INFO EmployeesRestAPi - ******** check server type *******
+2022-12-25 11:59:45,046 [main] INFO EmployeesRestAPi - server type ==> Apache
+2022-12-25 11:59:45,048 [main] INFO EmployeesRestAPi - ******** TC004_Post_Employes_record_updated close ********
+2022-12-25 12:04:14,373 [main] INFO EmployeesRestAPi - ******* TC003_Post_Employes_record ********
+2022-12-25 12:04:20,250 [main] INFO EmployeesRestAPi - *********check response body *********
+2022-12-25 12:04:20,258 [main] INFO EmployeesRestAPi - body name ==> akashvzioD
+2022-12-25 12:04:50,377 [main] INFO EmployeesRestAPi - ******* TC003_Post_Employes_record ********
+2022-12-25 12:04:56,020 [main] INFO EmployeesRestAPi - Cache-Control ==> no-cache, private, max-age=21600
+2022-12-25 12:04:56,020 [main] INFO EmployeesRestAPi - Content-Type ==> application/json
+2022-12-25 12:04:56,020 [main] INFO EmployeesRestAPi - Date ==> Sun, 25 Dec 2022 06:34:44 GMT
+2022-12-25 12:04:56,020 [main] INFO EmployeesRestAPi - Display ==> staticcontent_sol, orig_site_sol
+2022-12-25 12:04:56,021 [main] INFO EmployeesRestAPi - Expires ==> Sun, 25 Dec 2022 12:34:44 GMT
+2022-12-25 12:04:56,021 [main] INFO EmployeesRestAPi - Host-Header ==> c2hhcmVkLmJsdWVob3N0LmNvbQ==
+2022-12-25 12:04:56,021 [main] INFO EmployeesRestAPi - Response ==> 200
+2022-12-25 12:04:56,022 [main] INFO EmployeesRestAPi - Server ==> Apache
+2022-12-25 12:04:56,023 [main] INFO EmployeesRestAPi - Vary ==> Accept-Encoding,Origin
+2022-12-25 12:04:56,023 [main] INFO EmployeesRestAPi - X-Endurance-Cache-Level ==> 2
+2022-12-25 12:04:56,023 [main] INFO EmployeesRestAPi - X-Ezoic-Cdn ==> Miss
+2022-12-25 12:04:56,023 [main] INFO EmployeesRestAPi - X-Middleton-Display ==> staticcontent_sol, orig_site_sol
+2022-12-25 12:04:56,023 [main] INFO EmployeesRestAPi - X-Middleton-Response ==> 200
+2022-12-25 12:04:56,023 [main] INFO EmployeesRestAPi - X-Nginx-Cache ==> WordPress
+2022-12-25 12:04:56,023 [main] INFO EmployeesRestAPi - X-Origin-Cache-Control ==> no-cache, private
+2022-12-25 12:04:56,024 [main] INFO EmployeesRestAPi - X-Ratelimit-Limit ==> 60
+2022-12-25 12:04:56,024 [main] INFO EmployeesRestAPi - X-Ratelimit-Remaining ==> 58
+2022-12-25 12:04:56,024 [main] INFO EmployeesRestAPi - X-Sol ==> orig
+2022-12-25 12:04:56,025 [main] INFO EmployeesRestAPi - Content-Length ==> 165
+2022-12-25 12:04:56,029 [main] INFO EmployeesRestAPi - ******** check content type **********
+2022-12-25 12:04:56,029 [main] INFO EmployeesRestAPi - content type ==> application/json
+2022-12-25 12:04:56,035 [main] INFO EmployeesRestAPi - *********check response body *********
+2022-12-25 12:04:56,042 [main] INFO EmployeesRestAPi - body name ==> akashoTNbz
+2022-12-25 12:04:56,050 [main] INFO EmployeesRestAPi - ********check Status code **********
+2022-12-25 12:04:56,051 [main] INFO EmployeesRestAPi - Status code ==> 200
+2022-12-25 12:04:56,054 [main] INFO EmployeesRestAPi - ******* check Status line *********
+2022-12-25 12:04:56,054 [main] INFO EmployeesRestAPi - Status line ==> HTTP/1.1 200 OK
+2022-12-25 12:04:56,056 [main] INFO EmployeesRestAPi - check content length *******
+2022-12-25 12:04:56,057 [main] INFO EmployeesRestAPi - content length ==> 165
+2022-12-25 12:04:56,057 [main] INFO EmployeesRestAPi - content length is less then 2000
+2022-12-25 12:04:56,059 [main] INFO EmployeesRestAPi - ******** check server type *******
+2022-12-25 12:04:56,060 [main] INFO EmployeesRestAPi - server type ==> Apache
+2022-12-25 12:04:56,063 [main] INFO EmployeesRestAPi - ******** TC003_Post_Employes_record close ********
+2022-12-25 12:06:21,122 [main] INFO EmployeesRestAPi - ******* TC004_Post_Employes_record_updated ********
+2022-12-25 12:06:27,828 [main] INFO EmployeesRestAPi - Cache-Control ==> no-cache, private, max-age=21600
+2022-12-25 12:06:27,828 [main] INFO EmployeesRestAPi - Content-Type ==> application/json
+2022-12-25 12:06:27,828 [main] INFO EmployeesRestAPi - Date ==> Sun, 25 Dec 2022 06:36:16 GMT
+2022-12-25 12:06:27,828 [main] INFO EmployeesRestAPi - Display ==> staticcontent_sol, orig_site_sol
+2022-12-25 12:06:27,829 [main] INFO EmployeesRestAPi - Expires ==> Sun, 25 Dec 2022 12:36:16 GMT
+2022-12-25 12:06:27,829 [main] INFO EmployeesRestAPi - Host-Header ==> c2hhcmVkLmJsdWVob3N0LmNvbQ==
+2022-12-25 12:06:27,829 [main] INFO EmployeesRestAPi - Response ==> 200
+2022-12-25 12:06:27,829 [main] INFO EmployeesRestAPi - Server ==> Apache
+2022-12-25 12:06:27,829 [main] INFO EmployeesRestAPi - Vary ==> Accept-Encoding,Origin
+2022-12-25 12:06:27,829 [main] INFO EmployeesRestAPi - X-Endurance-Cache-Level ==> 2
+2022-12-25 12:06:27,830 [main] INFO EmployeesRestAPi - X-Ezoic-Cdn ==> Miss
+2022-12-25 12:06:27,830 [main] INFO EmployeesRestAPi - X-Middleton-Display ==> staticcontent_sol, orig_site_sol
+2022-12-25 12:06:27,830 [main] INFO EmployeesRestAPi - X-Middleton-Response ==> 200
+2022-12-25 12:06:27,830 [main] INFO EmployeesRestAPi - X-Nginx-Cache ==> WordPress
+2022-12-25 12:06:27,830 [main] INFO EmployeesRestAPi - X-Origin-Cache-Control ==> no-cache, private
+2022-12-25 12:06:27,831 [main] INFO EmployeesRestAPi - X-Ratelimit-Limit ==> 60
+2022-12-25 12:06:27,831 [main] INFO EmployeesRestAPi - X-Ratelimit-Remaining ==> 58
+2022-12-25 12:06:27,831 [main] INFO EmployeesRestAPi - X-Sol ==> orig
+2022-12-25 12:06:27,832 [main] INFO EmployeesRestAPi - Content-Length ==> 84
+2022-12-25 12:06:27,835 [main] INFO EmployeesRestAPi - ******** check content type **********
+2022-12-25 12:06:27,835 [main] INFO EmployeesRestAPi - content type ==> application/json
+2022-12-25 12:06:27,840 [main] INFO EmployeesRestAPi - *********check response body *********
+2022-12-25 12:06:27,840 [main] INFO EmployeesRestAPi - body name ==> akashBJmUa
+2022-12-25 12:06:27,848 [main] INFO EmployeesRestAPi - ********check Status code **********
+2022-12-25 12:06:27,848 [main] INFO EmployeesRestAPi - Status code ==> 200
+2022-12-25 12:06:27,850 [main] INFO EmployeesRestAPi - ******* check Status line *********
+2022-12-25 12:06:27,850 [main] INFO EmployeesRestAPi - Status line ==> HTTP/1.1 200 OK
+2022-12-25 12:06:27,852 [main] INFO EmployeesRestAPi - check content length *******
+2022-12-25 12:06:27,853 [main] INFO EmployeesRestAPi - content length ==> 84
+2022-12-25 12:06:27,853 [main] INFO EmployeesRestAPi - content length is less then 2000
+2022-12-25 12:06:27,855 [main] INFO EmployeesRestAPi - ******** check server type *******
+2022-12-25 12:06:27,855 [main] INFO EmployeesRestAPi - server type ==> Apache
+2022-12-25 12:06:27,858 [main] INFO EmployeesRestAPi - ******** TC004_Post_Employes_record_updated close ********
+2022-12-25 12:07:11,515 [main] INFO EmployeesRestAPi - ******* TC004_Post_Employes_record_updated ********
+2022-12-25 12:07:18,156 [main] INFO EmployeesRestAPi - Cache-Control ==> no-cache, private, max-age=21600
+2022-12-25 12:07:18,156 [main] INFO EmployeesRestAPi - Content-Type ==> application/json
+2022-12-25 12:07:18,156 [main] INFO EmployeesRestAPi - Date ==> Sun, 25 Dec 2022 06:37:07 GMT
+2022-12-25 12:07:18,156 [main] INFO EmployeesRestAPi - Display ==> staticcontent_sol, orig_site_sol
+2022-12-25 12:07:18,156 [main] INFO EmployeesRestAPi - Expires ==> Sun, 25 Dec 2022 12:37:07 GMT
+2022-12-25 12:07:18,157 [main] INFO EmployeesRestAPi - Host-Header ==> c2hhcmVkLmJsdWVob3N0LmNvbQ==
+2022-12-25 12:07:18,157 [main] INFO EmployeesRestAPi - Response ==> 200
+2022-12-25 12:07:18,157 [main] INFO EmployeesRestAPi - Server ==> Apache
+2022-12-25 12:07:18,157 [main] INFO EmployeesRestAPi - Vary ==> Accept-Encoding,Origin
+2022-12-25 12:07:18,158 [main] INFO EmployeesRestAPi - X-Endurance-Cache-Level ==> 2
+2022-12-25 12:07:18,158 [main] INFO EmployeesRestAPi - X-Ezoic-Cdn ==> Miss
+2022-12-25 12:07:18,158 [main] INFO EmployeesRestAPi - X-Middleton-Display ==> staticcontent_sol, orig_site_sol
+2022-12-25 12:07:18,158 [main] INFO EmployeesRestAPi - X-Middleton-Response ==> 200
+2022-12-25 12:07:18,158 [main] INFO EmployeesRestAPi - X-Nginx-Cache ==> WordPress
+2022-12-25 12:07:18,158 [main] INFO EmployeesRestAPi - X-Origin-Cache-Control ==> no-cache, private
+2022-12-25 12:07:18,159 [main] INFO EmployeesRestAPi - X-Ratelimit-Limit ==> 60
+2022-12-25 12:07:18,159 [main] INFO EmployeesRestAPi - X-Ratelimit-Remaining ==> 58
+2022-12-25 12:07:18,159 [main] INFO EmployeesRestAPi - X-Sol ==> orig
+2022-12-25 12:07:18,159 [main] INFO EmployeesRestAPi - Content-Length ==> 84
+2022-12-25 12:07:18,162 [main] INFO EmployeesRestAPi - ******** check content type **********
+2022-12-25 12:07:18,163 [main] INFO EmployeesRestAPi - content type ==> application/json
+2022-12-25 12:07:18,167 [main] INFO EmployeesRestAPi - *********check response body *********
+2022-12-25 12:07:18,168 [main] INFO EmployeesRestAPi - body name ==> akashZnoeb
+2022-12-25 12:07:18,176 [main] INFO EmployeesRestAPi - ********check Status code **********
+2022-12-25 12:07:18,176 [main] INFO EmployeesRestAPi - Status code ==> 200
+2022-12-25 12:07:18,178 [main] INFO EmployeesRestAPi - ******* check Status line *********
+2022-12-25 12:07:18,179 [main] INFO EmployeesRestAPi - Status line ==> HTTP/1.1 200 OK
+2022-12-25 12:07:18,180 [main] INFO EmployeesRestAPi - check content length *******
+2022-12-25 12:07:18,181 [main] INFO EmployeesRestAPi - content length ==> 84
+2022-12-25 12:07:18,182 [main] INFO EmployeesRestAPi - content length is less then 2000
+2022-12-25 12:07:18,183 [main] INFO EmployeesRestAPi - ******** check server type *******
+2022-12-25 12:07:18,184 [main] INFO EmployeesRestAPi - server type ==> Apache
+2022-12-25 12:07:18,189 [main] INFO EmployeesRestAPi - ******** TC004_Post_Employes_record_updated close ********

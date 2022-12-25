@@ -13,7 +13,7 @@ public class Test_base {
 	
 	public static RequestSpecification http;
 	public static Response respones;
-	
+	public static String emID="2";
 	
 	public Logger logger;
 	

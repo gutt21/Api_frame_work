@@ -11,20 +11,22 @@ import io.restassured.http.Header;
 import io.restassured.http.Headers;
 import io.restassured.http.Method;
 
-public class TC001_Get_All_Employess  extends Test_base{
+public class TC002_Get_Single_Employess extends Test_base {
 
-
-
-
+	
+	
+	
+	
+	
 
 	@BeforeClass
 	public void GetallEmployess() throws InterruptedException {
 
-		logger.info("******* started TC001_Get_All_Employess ********");
+		logger.info("******* started TC002_Get_Single_Employess ********");
 
 		RestAssured.baseURI="https://dummy.restapiexample.com/api/v1";
 		http=RestAssured.given();
-		respones=http.request(Method.GET,"/employees/22");
+		respones=http.request(Method.GET,"/employee/"+emID);
 
 		Thread.sleep(3000);
 	}
@@ -121,7 +123,7 @@ public class TC001_Get_All_Employess  extends Test_base{
 		logger.info("****** check Content Encoding ******");
 		String Encoding=respones.header("Content-Encoding");
 		logger.info("Content Encoding is ==> "+Encoding);
-		Assert.assertEquals(Encoding, "gzip");
+		Assert.assertEquals(Encoding, "br");
 		
 	}
 
@@ -144,8 +146,10 @@ public class TC001_Get_All_Employess  extends Test_base{
 	
 	@AfterClass
 	public void tear_Down() {
-		logger.info("******* finished TC001_Get_All_Employess *******");
+		logger.info("******* finished TC002_Get_Single_Employess *******");
 	}
+	
+	
 	
 	
 }

@@ -1,25 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="5" total="6" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="8" passed="7" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-12-21T15:56:18 IST" name="Default suite" finished-at="2022-12-21T15:56:23 IST" duration-ms="4600">
+  <suite started-at="2022-12-25T12:07:11 IST" name="Default suite" finished-at="2022-12-25T12:07:18 IST" duration-ms="6809">
     <groups>
     </groups>
-    <test started-at="2022-12-21T15:56:18 IST" name="Default test" finished-at="2022-12-21T15:56:23 IST" duration-ms="4600">
-      <class name="Api_tescase.TC001_Get_All_Employess">
-        <test-method is-config="true" signature="setup()[pri:0, instance:Api_tescase.TC001_Get_All_Employess@4466af20]" started-at="2022-12-21T15:56:18 IST" name="setup" finished-at="2022-12-21T15:56:18 IST" duration-ms="97" status="PASS">
+    <test started-at="2022-12-25T12:07:11 IST" name="Default test" finished-at="2022-12-25T12:07:18 IST" duration-ms="6809">
+      <class name="Api_tescase.TC005_Post_Employes_record_deleted">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Api_tescase.TC005_Post_Employes_record_deleted@79924b]" started-at="2022-12-25T12:07:11 IST" name="setup" finished-at="2022-12-25T12:07:11 IST" duration-ms="106" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method is-config="true" signature="GetallEmployess()[pri:0, instance:Api_tescase.TC001_Get_All_Employess@4466af20]" started-at="2022-12-21T15:56:18 IST" name="GetallEmployess" finished-at="2022-12-21T15:56:23 IST" duration-ms="4459" status="PASS">
+        <test-method is-config="true" signature="GetallEmployess()[pri:0, instance:Api_tescase.TC005_Post_Employes_record_deleted@79924b]" started-at="2022-12-25T12:07:11 IST" name="GetallEmployess" finished-at="2022-12-25T12:07:18 IST" duration-ms="6629" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- GetallEmployess -->
-        <test-method signature="checkservertype()[pri:0, instance:Api_tescase.TC001_Get_All_Employess@4466af20]" started-at="2022-12-21T15:56:23 IST" name="checkservertype" finished-at="2022-12-21T15:56:23 IST" duration-ms="6" status="PASS">
+        <test-method signature="all_headers()[pri:0, instance:Api_tescase.TC005_Post_Employes_record_deleted@79924b]" started-at="2022-12-25T12:07:18 IST" name="all_headers" finished-at="2022-12-25T12:07:18 IST" duration-ms="8" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- checkservertype -->
-      </class> <!-- Api_tescase.TC001_Get_All_Employess -->
+        </test-method> <!-- all_headers -->
+        <test-method signature="checkContentType()[pri:0, instance:Api_tescase.TC005_Post_Employes_record_deleted@79924b]" started-at="2022-12-25T12:07:18 IST" name="checkContentType" finished-at="2022-12-25T12:07:18 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkContentType -->
+        <test-method signature="checkResponsebody()[pri:0, instance:Api_tescase.TC005_Post_Employes_record_deleted@79924b]" started-at="2022-12-25T12:07:18 IST" name="checkResponsebody" finished-at="2022-12-25T12:07:18 IST" duration-ms="6" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:110)
+at org.testng.Assert.failNotEquals(Assert.java:1413)
+at org.testng.Assert.assertEqualsImpl(Assert.java:149)
+at org.testng.Assert.assertEquals(Assert.java:131)
+at org.testng.Assert.assertEquals(Assert.java:976)
+at org.testng.Assert.assertEquals(Assert.java:1010)
+at Api_tescase.TC005_Post_Employes_record_deleted.checkResponsebody(TC005_Post_Employes_record_deleted.java:55)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkResponsebody -->
+        <test-method signature="checkStatuscode()[pri:0, instance:Api_tescase.TC005_Post_Employes_record_deleted@79924b]" started-at="2022-12-25T12:07:18 IST" name="checkStatuscode" finished-at="2022-12-25T12:07:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStatuscode -->
+        <test-method signature="checkStatusline()[pri:0, instance:Api_tescase.TC005_Post_Employes_record_deleted@79924b]" started-at="2022-12-25T12:07:18 IST" name="checkStatusline" finished-at="2022-12-25T12:07:18 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStatusline -->
+        <test-method signature="check_content_length()[pri:0, instance:Api_tescase.TC005_Post_Employes_record_deleted@79924b]" started-at="2022-12-25T12:07:18 IST" name="check_content_length" finished-at="2022-12-25T12:07:18 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_content_length -->
+        <test-method signature="check_server_type()[pri:0, instance:Api_tescase.TC005_Post_Employes_record_deleted@79924b]" started-at="2022-12-25T12:07:18 IST" name="check_server_type" finished-at="2022-12-25T12:07:18 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_server_type -->
+        <test-method signature="tear_down()[pri:0, instance:Api_tescase.TC005_Post_Employes_record_deleted@79924b]" started-at="2022-12-25T12:07:18 IST" name="tear_down" finished-at="2022-12-25T12:07:18 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear_down -->
+      </class> <!-- Api_tescase.TC005_Post_Employes_record_deleted -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
